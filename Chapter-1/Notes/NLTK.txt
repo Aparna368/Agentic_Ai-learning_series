@@ -1,0 +1,32 @@
+1. Tokenization Models
+nltk.download('punkt')
+nltk.download('punkt_tab')
+
+2. Stopwords
+nltk.download('stopwords')
+
+3. Part-of-Speech (POS) Tagging
+nltk.download('averaged_perceptron_tagger')
+
+4. Named Entity Recognition (NER)
+nltk.download('maxent_ne_chunker')
+nltk.download('words')
+
+5. Lemmatization
+nltk.download('wordnet')
+nltk.download('omw-1.4')
+
+6. Synonyms and Meanings
+nltk.download('wordnet')
+
+7. Sentence Datasets
+nltk.download('gutenberg')
+nltk.download('brown')
+nltk.download('reuters')
+
+8. Sentiment Analysis
+nltk.download('vader_lexicon')
+
+9. Chunking and Grammar Parsing
+nltk.download('treebank')
+
