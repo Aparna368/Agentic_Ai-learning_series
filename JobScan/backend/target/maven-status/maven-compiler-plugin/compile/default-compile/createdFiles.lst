@@ -1,0 +1,8 @@
+com\jobscan\service\AnalysisService.class
+com\jobscan\service\AnalysisService$1.class
+com\jobscan\repository\AnalysisRepository.class
+com\jobscan\dto\AnalysisResponseDTO.class
+com\jobscan\JobscanApplication.class
+com\jobscan\service\AnalysisService$2.class
+com\jobscan\controller\AnalysisController.class
+com\jobscan\entity\AnalysisEntity.class
