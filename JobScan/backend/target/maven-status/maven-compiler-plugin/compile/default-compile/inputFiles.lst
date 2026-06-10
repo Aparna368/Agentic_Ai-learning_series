@@ -1,6 +1,6 @@
-D:\JobScan\backend\src\main\java\com\jobscan\JobscanApplication.java
-D:\JobScan\backend\src\main\java\com\jobscan\dto\AnalysisResponseDTO.java
-D:\JobScan\backend\src\main\java\com\jobscan\controller\AnalysisController.java
-D:\JobScan\backend\src\main\java\com\jobscan\service\AnalysisService.java
-D:\JobScan\backend\src\main\java\com\jobscan\repository\AnalysisRepository.java
-D:\JobScan\backend\src\main\java\com\jobscan\entity\AnalysisEntity.java
+C:\Users\Me\Desktop\Agentic_Ai-learning_series\JobScan\backend\src\main\java\com\jobscan\dto\AnalysisResponseDTO.java
+C:\Users\Me\Desktop\Agentic_Ai-learning_series\JobScan\backend\src\main\java\com\jobscan\entity\AnalysisEntity.java
+C:\Users\Me\Desktop\Agentic_Ai-learning_series\JobScan\backend\src\main\java\com\jobscan\JobscanApplication.java
+C:\Users\Me\Desktop\Agentic_Ai-learning_series\JobScan\backend\src\main\java\com\jobscan\service\AnalysisService.java
+C:\Users\Me\Desktop\Agentic_Ai-learning_series\JobScan\backend\src\main\java\com\jobscan\controller\AnalysisController.java
+C:\Users\Me\Desktop\Agentic_Ai-learning_series\JobScan\backend\src\main\java\com\jobscan\repository\AnalysisRepository.java
